@@ -3,6 +3,8 @@ import cvzone
 from cvzone.HandTrackingModule import HandDetector
 import numpy as np
 
+### dsfsd
+
 # 비디오 캡처 설정
 cap = cv2.VideoCapture(cv2.CAP_DSHOW + 0)
 cap.set(3, 1280)  # 비디오 프레임의 너비 설정
