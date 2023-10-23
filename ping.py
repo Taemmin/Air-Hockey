@@ -3,7 +3,7 @@ import cvzone
 from cvzone.HandTrackingModule import HandDetector
 import numpy as np
 
-### dsfsd
+### 수정됨
 
 # 비디오 캡처 설정
 cap = cv2.VideoCapture(cv2.CAP_DSHOW + 0)
